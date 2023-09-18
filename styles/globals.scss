@@ -1,23 +1,23 @@
 @import "./themes/";
 
 @font-face {
-  font-family: 'SFPro';
+  font-family: "SFPro";
   src: url("/fonts/SF-Pro-Display-Bold.otf");
   font-weight: bold;
 }
 @font-face {
-  font-family: 'SFPro';
+  font-family: "SFPro";
   src: url("/fonts/SF-Pro-Display-Regular.otf");
   font-weight: 400;
 }
 @font-face {
-  font-family: 'SFPro';
+  font-family: "SFPro";
   src: url("/fonts/SF-Pro-Display-Light.otf");
   font-weight: 300;
 }
 
 @font-face {
-  font-family: 'SFProText';
+  font-family: "SFProText";
   src: url("/fonts/SF-Pro-Text-Regular.otf");
 }
 
@@ -29,7 +29,7 @@ body {
   font-family: SFPro;
 }
 
-p{
+p {
   font-family: SFProText;
 }
 
