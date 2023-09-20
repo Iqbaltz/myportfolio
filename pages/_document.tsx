@@ -5,6 +5,10 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
+        <meta
+          name="keywords"
+          content="muhammad iqbal, iqbal, frontend developer, web developer, programmer, developer, website development, iqbaldev"
+        />
         <Script
           async
           src="https://www.googletagmanager.com/gtag/js?id=G-0YD1V5KNQE"
